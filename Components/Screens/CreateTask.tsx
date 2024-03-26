@@ -7,7 +7,7 @@ import { useDispatch } from 'react-redux';
 
 interface Todo {
     TaskName: string;
-    Category: string;
+    Category: string; 
     Date: string;
     Description: string;
     Start: string;
